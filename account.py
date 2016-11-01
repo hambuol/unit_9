@@ -1,6 +1,6 @@
 # written by oliver hamburger
 # program is a class for a simple account
-
+# last modified 11/1/16
 
 class Account:
     """basic funtionality for a simple account. users can make deposits, withdraws and check their balance"""

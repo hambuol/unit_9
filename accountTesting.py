@@ -1,5 +1,6 @@
 # written by oliver hamburger
 # program testes account class
+# last modified 11/1/16
 
 # imports account class
 import account
